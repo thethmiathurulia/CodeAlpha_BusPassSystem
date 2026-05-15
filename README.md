@@ -20,3 +20,5 @@ Check out the video demonstration in the LinkedIn post!
 2. Import `database.sql` to your MySQL server.
 3. Place `index.php` in your web root directory.
 4. Update database credentials in `index.php`.
+## 🌐 Live Demo
+You can access the live application here: [http://13.57.223.64](http://13.57.223.64)
